@@ -95,7 +95,7 @@ export default function CataloguePage() {
       title: "Business Cards",
       category: "business",
       description: "Premium quality business cards with various finishes available.",
-      price: "From $29.99",
+      price: "From ₦25,000",
       image: "/business-cards-printing.png",
     },
     {
@@ -103,7 +103,7 @@ export default function CataloguePage() {
       title: "Flyers",
       category: "marketing",
       description: "Eye-catching flyers perfect for promotions and events.",
-      price: "From $49.99",
+      price: "From ₦5,000",
       image: "/colorful-flyers-printing.jpg",
     },
     {
@@ -111,7 +111,7 @@ export default function CataloguePage() {
       title: "Banners",
       category: "signage",
       description: "Large format banners for indoor and outdoor use.",
-      price: "From $79.99",
+      price: "From ₦100,079",
       image: "/banner-printing-display.jpg",
     },
     {
@@ -119,7 +119,7 @@ export default function CataloguePage() {
       title: "Brochures",
       category: "marketing",
       description: "Professional brochures to showcase your products and services.",
-      price: "From $59.99",
+      price: "From ₦40,059",
       image: "/brochure-printing-design.jpg",
     },
     {
@@ -127,7 +127,7 @@ export default function CataloguePage() {
       title: "T-Shirts",
       category: "merchandise",
       description: "Custom printed t-shirts with your design or logo.",
-      price: "From $15.99",
+      price: "From ₦30,000",
       image: "/custom-t-shirt-printing.jpg",
     },
     {
@@ -135,7 +135,7 @@ export default function CataloguePage() {
       title: "Posters",
       category: "signage",
       description: "High-quality posters in various sizes and finishes.",
-      price: "From $24.99",
+      price: "From ₦98,000",
       image: "/poster-printing-design.jpg",
     },
     {
@@ -143,7 +143,7 @@ export default function CataloguePage() {
       title: "Letterheads",
       category: "business",
       description: "Professional letterheads for your business correspondence.",
-      price: "From $39.99",
+      price: "From ₦50,000",
       image: "/letterhead-printing-business.jpg",
     },
     {
@@ -151,7 +151,7 @@ export default function CataloguePage() {
       title: "Mugs",
       category: "merchandise",
       description: "Custom printed mugs perfect for gifts or promotional items.",
-      price: "From $12.99",
+      price: "From ₦10012",
       image: "/custom-mug-printing.jpg",
     },
     {
@@ -159,7 +159,7 @@ export default function CataloguePage() {
       title: "Vinyl Stickers",
       category: "marketing",
       description: "Durable vinyl stickers in custom shapes and sizes.",
-      price: "From $19.99",
+      price: "From ₦10019",
       image: "/vinyl-sticker-printing.jpg",
     },
     {
@@ -167,7 +167,7 @@ export default function CataloguePage() {
       title: "Trophies",
       category: "awards",
       description: "Custom trophies for sports events, competitions, and achievements.",
-      price: "From $35.99",
+      price: "From ₦60,000",
       image: "/golden-trophy-award.jpg",
     },
     {
@@ -175,7 +175,7 @@ export default function CataloguePage() {
       title: "Plaques",
       category: "awards",
       description: "Elegant plaques for recognition and appreciation.",
-      price: "From $45.99",
+      price: "From ₦45,000",
       image: "/wooden-plaque-award.jpg",
     },
     {
@@ -183,7 +183,7 @@ export default function CataloguePage() {
       title: "Medals",
       category: "awards",
       description: "Custom medals for sporting events and competitions.",
-      price: "From $8.99",
+      price: "From ₦50,000",
       image: "/gold-silver-bronze-medals.jpg",
     },
     {
@@ -191,7 +191,7 @@ export default function CataloguePage() {
       title: "Acrylic Awards",
       category: "awards",
       description: "Modern acrylic awards with custom engraving.",
-      price: "From $55.99",
+      price: "From ₦70,000",
       image: "/clear-acrylic-award-trophy.jpg",
     },
     {
@@ -199,7 +199,7 @@ export default function CataloguePage() {
       title: "Certificates",
       category: "awards",
       description: "Professional certificates for achievements and recognition.",
-      price: "From $12.99",
+      price: "From ₦20,500",
       image: "/certificate-of-achievement.jpg",
     },
     {
