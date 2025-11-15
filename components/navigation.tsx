@@ -54,7 +54,7 @@ export function Navigation() {
               {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
             </Button>
           </SheetTrigger>
-          <SheetContent side="right" className="w-[400px] sm:w-[500px]">
+          <SheetContent side="right" className="w-[300px] sm:w-[400px]">
             <nav className="flex flex-col gap-4 pt-14 px-4">
               {navLinks.map((link) => (
                 <Link
